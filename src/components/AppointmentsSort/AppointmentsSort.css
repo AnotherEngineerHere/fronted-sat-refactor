@@ -1,0 +1,20 @@
+.appointmentSort {
+  width: 100%;
+}
+.appointmentSort .inside-box {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  margin-bottom: 20px;
+}
+
+.appointmentSort .inside-box .label-container-sec {
+  width: 20%;
+}
+.appointmentSort .inside-box .formSort {
+  width: 100%;
+}
+
+.appointmentSort .inside-box label + .MuiInput-formControl {
+  width: 70%;
+}

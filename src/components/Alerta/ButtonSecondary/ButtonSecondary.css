@@ -1,0 +1,18 @@
+.button-second{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 19px;
+    background-color: #2764E3;
+    width: 60%;
+
+    color: white;
+    height: 60px;
+    border-radius: 5px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #2764E3;
+    text-transform: uppercase;
+    margin: 10px 10px 10px 10px;
+}

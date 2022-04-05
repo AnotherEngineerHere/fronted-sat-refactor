@@ -1,0 +1,1 @@
+export const options = [{id: 1, op: 'SI'}, {id: 2, op: 'NO'}];

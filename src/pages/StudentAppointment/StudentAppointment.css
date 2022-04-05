@@ -1,0 +1,10 @@
+.studentAppointment .information-container {
+  margin-bottom: 40px;
+}
+
+.studentAppointment .information-container .button-container {
+  height: 100%;
+  margin-top: 10%;
+  margin-left: auto;
+  text-align: center;
+}

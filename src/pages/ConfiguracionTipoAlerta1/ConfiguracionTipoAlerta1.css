@@ -1,0 +1,17 @@
+.general-container-TP1{
+    width: 100%;
+    
+}
+
+.info-container-TP1{
+    width: 100%;
+    margin-top: 40px;
+    display: flex;
+}
+
+.options-TP1{
+    margin-left: 5%;
+    display: grid;
+    grid-template-columns: 150px 100%;
+    grid-template-rows: 100px 100px 100px 100px 100px;
+}

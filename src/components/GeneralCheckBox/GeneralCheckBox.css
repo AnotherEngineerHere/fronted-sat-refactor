@@ -1,0 +1,14 @@
+.generalCheckBox{
+    display: flex;
+    justify-content: flex-start;
+    align-items: baseline;
+}
+
+.generalCheckBox.label-container-sec {
+    width: 30%;
+ }
+  
+.generalCheckBox .MuiInput-root {
+    width: 70%;
+ }
+

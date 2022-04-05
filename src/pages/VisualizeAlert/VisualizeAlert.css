@@ -1,0 +1,26 @@
+.table-alerts{
+    margin-top: 2%;
+    margin-left: 50px;
+    width: 780px;  
+}
+
+.MuiTableCell-head {
+    font-family: Roboto;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.MuiTableCell-root {
+    border: 2px solid #2764E3;
+    border-bottom: 2px solid #2764E3;
+}
+
+.MuiTableCell-body {
+    font-family: Roboto;
+}
+
+.inside-box {
+    display: grid;
+    grid-template-columns: 200px 100px;
+    grid-template-rows: 30px 20px 30px;
+}

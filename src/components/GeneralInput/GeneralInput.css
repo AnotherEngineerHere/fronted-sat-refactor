@@ -1,0 +1,32 @@
+.generalInput {
+    display: flex;
+    justify-content: flex-start;
+    align-items: baseline; 
+    margin-top: 15px;
+    margin-left: 100px;
+    margin-right: 100px
+}
+
+.form-text-field {
+    border-radius: 10px;
+    width: 550px;
+    border: solid #2764E3;
+    font-family: Roboto;
+
+}
+
+.generalInput .label-container-sec {
+    width: 30%;    
+}
+  
+.generalInput .MuiInput-root {
+    width: 60%;    
+}
+
+
+
+
+
+
+
+

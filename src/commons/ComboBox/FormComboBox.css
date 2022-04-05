@@ -1,0 +1,12 @@
+.form-combo-box {
+    border-radius: 10px;
+    width: 360px;
+    border: solid #2764E3;
+    font-family: Roboto;
+    margin-top: 5px;
+    
+}
+
+label + .MuiInput-formControl {
+    margin-top: 0;
+}

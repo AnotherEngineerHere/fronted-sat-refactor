@@ -1,0 +1,12 @@
+.appointmentsList {
+  width: 100%;
+  overflow: auto;
+  max-height: 60vh;
+  border-radius: 5px;
+}
+
+.appointmentsList .header .row .cell {
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.2em;
+}

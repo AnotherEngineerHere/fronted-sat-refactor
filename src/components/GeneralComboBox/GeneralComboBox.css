@@ -1,0 +1,17 @@
+.generalComboBox{
+    margin-top: 15px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: baseline;
+    margin-left: 100px;
+    margin-right: 100px
+    
+}
+
+.generalComboBox .label-container-sec {
+    width: 40%;
+ }
+  
+.generalComboBox .MuiInput-root {
+    width: 60%;
+ }

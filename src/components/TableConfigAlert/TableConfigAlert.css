@@ -1,0 +1,17 @@
+.primary{
+    height: 30px;
+    width: 70px;
+    background-color: rgb(54, 224, 224);
+    margin: 5px;
+    border-radius: 3px;
+    border: 1px solid silver;
+}
+
+.danger{
+    height: 30px;
+    width: 70px;
+    margin: 5px;
+    border-radius: 3px;
+    border: 1px solid silver;
+    background-color: rgb(224, 63, 63);
+}
