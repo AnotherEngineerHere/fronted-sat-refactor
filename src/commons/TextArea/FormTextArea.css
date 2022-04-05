@@ -1,0 +1,11 @@
+.form-text-area{
+    border-radius: 10px;
+    width: 350px;
+    border: solid #2764E3;
+    font-family: Roboto;
+    margin-top: 5px;
+}
+
+.mainLoginInput::placeholder{
+    font-family: Roboto;
+}

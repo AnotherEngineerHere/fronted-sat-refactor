@@ -5,12 +5,10 @@ import logo from '../../assets/images/image.png';
 const Navbar=() =>{
 
     return(
-        <div className='navbarNavbar'>
+        <div className='navbar'>
             <img src={logo} alt=""/>
-            <label className='tituloAppointmentByStudent'>SISTEMA DE ALERTAS TEMPRANA</label>
+            <label className='titulo'>SISTEMA DE ALERTAS TEMPRANA</label>
         </div>
-
-        
     )
 
 };

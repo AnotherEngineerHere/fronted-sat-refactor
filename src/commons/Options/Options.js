@@ -1,6 +1,6 @@
 import React from "react";
 import { useHistory } from "react-router";
-import "../styles/styles.css";
+import "./Options.css";
 import Label from "../../pages/onboarding/Login/Components/Label/Label";
 import home from "../../assets/images/home.png";
 import alerts from "../../assets/images/alerts.png";

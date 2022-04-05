@@ -1,0 +1,8 @@
+.form-txt-field {
+  border-style: solid;
+  border-color: #2764e3;
+  border-radius: 5px;
+  width: 320px;
+  height: 35px;
+  font-family: Roboto;
+}

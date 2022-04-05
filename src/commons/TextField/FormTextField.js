@@ -1,5 +1,5 @@
 import React from 'react';
-import "../styles/styles.css"
+import '../styles/FormTextField.css;'
 
 const FormTextField = ({ attribute}) => {
     return (

@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { useHistory } from "react-router";
-import '../styles/styles.css';
+import './NavbarLO.css';
 import logo from '../../assets/images/image.png';
 import logOut from '../../assets/images/logOut.png';
 
@@ -13,7 +13,7 @@ const NavbarLO=() =>{
     }
 
     return(
-        <div className='navbarLo'>
+        <div className='navbar'>
             <img  className='logo-icesi' src={logo} />
             <label className='titulo'>SISTEMA DE ALERTAS TEMPRANAS</label>
             <div className='logOut'>
