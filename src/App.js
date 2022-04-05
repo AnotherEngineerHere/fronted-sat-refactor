@@ -12,7 +12,6 @@ import MyAppointments from "./pages/AppointmentByStudent/AppointmentByStudent";
 import AppointmentConfirmationByCenter from "./pages/AppointmentConfirmationByCenter/AppointmentConfirmationByCenter";
 import AppointmentByMonitor from "./pages/AppointmentByMonitor/AppointmentByMonitor";
 
-import { breakStatement } from "@babel/types";
 import LocalCondition from "./pages/app/LocalConditions/LocalCondition";
 import Threshold from "./pages/app/AlertConfiguration/Threshold";
 import RemoteCondition from "./pages/app/AlertConfiguration/RemoteCondition";

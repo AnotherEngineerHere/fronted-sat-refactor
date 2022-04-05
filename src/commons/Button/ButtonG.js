@@ -1,6 +1,6 @@
 import React from "react";
 
-import './ButtonG.css';
+import '../styles/ButtonG.css';
 
 const ButtonG = ({text}) =>{
     return(

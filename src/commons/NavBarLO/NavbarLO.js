@@ -1,6 +1,6 @@
-import React, { useState } from "react";
+import React, {  } from "react";
 import { useHistory } from "react-router";
-import './NavbarLO.css';
+import '../styles/NavbarLO.css';
 import logo from '../../assets/images/image.png';
 import logOut from '../../assets/images/logOut.png';
 

@@ -1,5 +1,5 @@
 import React from 'react';
-import "./FormTextArea.css";
+import "../styles/FormTextArea.css";
 
 export default function FormTextArea() {
   return (

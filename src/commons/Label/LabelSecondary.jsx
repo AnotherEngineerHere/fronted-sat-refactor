@@ -1,5 +1,5 @@
 import React from 'react';
-import './LabelSecondary.css';
+import '../styles/LabelSecondary.css';
 
 const LabelSecondary = ( props ) =>{
     return(

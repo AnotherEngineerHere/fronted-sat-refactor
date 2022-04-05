@@ -1,5 +1,5 @@
 import React from 'react';
-import './BigTextField.css';
+import '../styles/BigTextField.css';
 
 const BigTextField = ({ attribute}) => {
     return (
